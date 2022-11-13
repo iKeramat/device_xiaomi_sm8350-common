@@ -1,13 +1,16 @@
 [
   {
+    "remote": "lineage",
     "repository": "android_kernel_xiaomi_sm8350",
     "target_path": "kernel/xiaomi/sm8350"
   },
   {
+    "remote": "lineage",
     "repository": "android_hardware_xiaomi",
     "target_path": "hardware/xiaomi"
   },
   {
+    "remote": "lineage",
     "repository": "android_vendor_qcom_opensource_healthd-ext",
     "target_path": "vendor/qcom/opensource/healthd-ext"
   }
